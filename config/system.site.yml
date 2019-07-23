@@ -1,0 +1,14 @@
+uuid: a56bd05b-2f81-4ce9-bcf2-579a2800cf1c
+name: umami-sync3
+mail: steve.persch@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
