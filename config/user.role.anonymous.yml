@@ -1,16 +1,16 @@
-uuid: 1b2fdae7-da8b-494e-bd02-ace58dae79e1
+uuid: a2fde2cd-73c7-4bd9-a99d-98bc0f41b1ca
 langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: pq_mEIu_B4widZN7Ap81iCJSjShFFdcL0jEiCi8VrDk
+  default_config_hash: Qf1B6Oytv6SDX58ba6IfUBGsq76oCUzu5Mpp9fevDJw
 id: anonymous
 label: 'Anonymous user'
 weight: 0
 is_admin: false
 permissions:
-  - 'access comments'
   - 'access content'
   - 'access site-wide contact form'
   - 'search content'
   - 'use text format restricted_html'
+  - 'view media'
