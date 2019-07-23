@@ -1,0 +1,107 @@
+{
+    "uuid": [
+        {
+            "value": "4c7d58a3-a45d-412d-9068-259c57e40541"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "banner_block",
+            "target_type": "block_content_type",
+            "target_uuid": "7ee4990c-957e-4a04-9615-7c667c7f0a31"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Umami Recetas Pancarta"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": false
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "content_translation_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "236f2db0-9e77-4651-8fbc-c7189eaa8fac"
+        }
+    ],
+    "content_translation_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_banner_image": [
+        {
+            "alt": "Una torre de brownies de chocolate y nueces pecanas, espolvoreadas con pedacitos de nueces pecanas y avellanas, reci\u00e9n salida del horno.",
+            "title": null,
+            "width": 3000,
+            "height": 1571,
+            "target_type": "file",
+            "target_uuid": "2b9a1498-d902-4f77-a210-ce74d54868eb"
+        }
+    ],
+    "field_content_link": [
+        {
+            "uri": "internal:\/es\/recipes\/bizcochos-veganos-de-chocolate-y-nueces",
+            "title": "Ver receta",
+            "options": []
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Estos exquisitos brownies quedar\u00e1n sabrosos por dentro y crujientes por fuera. \u00a1La tentaci\u00f3n perfecta!"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Brownies Veganos de Chocolate y Nuez"
+        }
+    ]
+}

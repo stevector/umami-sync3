@@ -1,0 +1,107 @@
+{
+    "uuid": [
+        {
+            "value": "924ab293-8f5f-45a1-9c7f-2423ae61a241"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "footer_promo_block",
+            "target_type": "block_content_type",
+            "target_uuid": "7201b016-9142-4cc6-b521-1919e694d9c6"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Umami footer promo"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "content_translation_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "236f2db0-9e77-4651-8fbc-c7189eaa8fac"
+        }
+    ],
+    "content_translation_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_content_link": [
+        {
+            "uri": "internal:\/about-umami",
+            "title": "Find out more",
+            "options": []
+        }
+    ],
+    "field_promo_image": [
+        {
+            "alt": "3 issue bundle of the Umami food magazine",
+            "title": null,
+            "width": 266,
+            "height": 236,
+            "target_type": "file",
+            "target_uuid": "b69dd183-7552-467f-9dc4-9c7f40846726"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Skills and know-how. Magazine exclusive articles, recipes and plenty of reasons to get your copy today."
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Umami Food Magazine"
+        }
+    ]
+}

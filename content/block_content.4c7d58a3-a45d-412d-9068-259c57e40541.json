@@ -1,0 +1,107 @@
+{
+    "uuid": [
+        {
+            "value": "4c7d58a3-a45d-412d-9068-259c57e40541"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "banner_block",
+            "target_type": "block_content_type",
+            "target_uuid": "7ee4990c-957e-4a04-9615-7c667c7f0a31"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Umami Recipes Banner"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "content_translation_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "236f2db0-9e77-4651-8fbc-c7189eaa8fac"
+        }
+    ],
+    "content_translation_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_banner_image": [
+        {
+            "alt": "A stack of chocolate and pecan brownies, sprinkled with pecan crumbs and crushed walnut, fresh out of the oven",
+            "title": null,
+            "width": 3000,
+            "height": 1571,
+            "target_type": "file",
+            "target_uuid": "97b9de18-0587-4e3c-99c1-dd18907ffebc"
+        }
+    ],
+    "field_content_link": [
+        {
+            "uri": "internal:\/en\/recipes\/vegan-chocolate-and-nut-brownies",
+            "title": "View recipe",
+            "options": []
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "These sumptuous brownies should be gooey on the inside and crisp on the outside. A perfect indulgence!"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Vegan chocolate and nut brownies"
+        }
+    ]
+}

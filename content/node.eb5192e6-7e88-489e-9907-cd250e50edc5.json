@@ -1,0 +1,196 @@
+{
+    "uuid": [
+        {
+            "value": "eb5192e6-7e88-489e-9907-cd250e50edc5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "recipe",
+            "target_type": "node_type",
+            "target_uuid": "c976712f-f2c0-472f-a5b1-99b9a1a44fe4"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "09131dce-fcc9-4593-bf35-fa23f5fd99bd"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "09131dce-fcc9-4593-bf35-fa23f5fd99bd"
+        }
+    ],
+    "title": [
+        {
+            "value": "Deep mediterranean quiche"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "moderation_state": [
+        {
+            "value": "published"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/recipes\/deep-mediterranean-quiche",
+            "langcode": "en"
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "field_cooking_time": [
+        {
+            "value": 30
+        }
+    ],
+    "field_difficulty": [
+        {
+            "value": "medium"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "A delicious deep layered Mediterranean quiche with basil garnish.",
+            "title": null,
+            "width": 768,
+            "height": 511,
+            "target_type": "file",
+            "target_uuid": "935153ba-2966-4ba1-8ac0-75901dba0f37"
+        }
+    ],
+    "field_ingredients": [
+        {
+            "value": "For the pastry:"
+        },
+        {
+            "value": "280g plain flour"
+        },
+        {
+            "value": "140g butter"
+        },
+        {
+            "value": "Cold water"
+        },
+        {
+            "value": "For the filling:"
+        },
+        {
+            "value": "1 onion"
+        },
+        {
+            "value": "2 garlic cloves"
+        },
+        {
+            "value": "Half a courgette"
+        },
+        {
+            "value": "450ml soya milk"
+        },
+        {
+            "value": "500g grated parmesan"
+        },
+        {
+            "value": "2 eggs"
+        },
+        {
+            "value": "200g sun dried tomatoes"
+        },
+        {
+            "value": "100g feta"
+        }
+    ],
+    "field_number_of_servings": [
+        {
+            "value": 8
+        }
+    ],
+    "field_preparation_time": [
+        {
+            "value": 40
+        }
+    ],
+    "field_recipe_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4aebe523-cc2e-475b-93da-7593a2ef1566"
+        }
+    ],
+    "field_recipe_instruction": [
+        {
+            "value": "<ol>\n  <li>Preheat the oven to 400\u00b0F\/200\u00b0C. Starting with the pastry; rub the flour and butter together in a bowl until crumbling like breadcrumbs. Add water, a little at a time, until it forms a dough.<\/li>\n  <li>Roll out the pastry on a floured board and gently spread over your tin. Place in the fridge for 20 minutes before blind baking for a further 10.<\/li>\n  <li>Whilst the pastry is cooling, chop and gently cook the onions, garlic and courgette.<\/li>\n  <li>In a large bowl, add the soya milk, half the parmesan, and the eggs. Gently mix.<\/li>\n  <li>Once the pastry is cooked, spread the onions, garlic and sun dried tomatoes over the base and pour the eggs mix over. Sprinkle the remaining parmesan and careful lay the feta over the top. Bake for 30 minutes or until golden brown.<\/li>\n<\/ol>\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "An Italian inspired quiche with sun dried tomatoes and courgette. A perfect light meal for a summer's day.",
+            "format": "basic_html"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d380e1ba-fc0c-484c-91f2-e76eb476978a"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fd6bcd2d-828c-4102-b00f-b791f1d8bdee"
+        }
+    ]
+}
