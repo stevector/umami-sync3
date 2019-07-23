@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-07-23T02:57:05+00:00",
+            "value": "2019-07-23T03:52:51+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "09131dce-fcc9-4593-bf35-fa23f5fd99bd"
+            "target_uuid": "3a83cfe2-4b8e-4215-bcfc-ef6b64e8bc96"
         }
     ],
     "revision_log": [],
@@ -72,11 +72,7 @@
             "value": false
         }
     ],
-    "revision_translation_affected": [
-        {
-            "value": true
-        }
-    ],
+    "revision_translation_affected": [],
     "moderation_state": [
         {
             "value": "published"

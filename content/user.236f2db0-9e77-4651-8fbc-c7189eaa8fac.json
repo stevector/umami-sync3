@@ -28,7 +28,7 @@
     "mail": [],
     "timezone": [
         {
-            "value": ""
+            "value": "UTC"
         }
     ],
     "status": [
