@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "9b4dcd67-99f3-48d0-93c9-2c46648b29de"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "disclaimer_block",
+            "target_type": "block_content_type",
+            "target_uuid": "c640fd34-5383-4fc1-a1e9-fb8666d09125"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Umami Disclaimer"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": true
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "content_translation_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "236f2db0-9e77-4651-8fbc-c7189eaa8fac"
+        }
+    ],
+    "content_translation_created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "field_copyright": [
+        {
+            "value": "&copy; 2019 Terms & Conditions",
+            "format": "basic_html"
+        }
+    ],
+    "field_disclaimer": [
+        {
+            "value": "<strong>Umami Magazine & Umami Publications<\/strong> is a fictional magazine and publisher for illustrative purposes only.",
+            "format": "basic_html"
+        }
+    ]
+}

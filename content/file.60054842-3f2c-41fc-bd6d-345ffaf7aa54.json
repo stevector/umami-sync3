@@ -1,0 +1,50 @@
+{
+    "uuid": [
+        {
+            "value": "60054842-3f2c-41fc-bd6d-345ffaf7aa54"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [],
+    "filename": [
+        {
+            "value": "vegan-chocolate-nut-brownies.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/vegan-chocolate-nut-brownies.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 109982
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

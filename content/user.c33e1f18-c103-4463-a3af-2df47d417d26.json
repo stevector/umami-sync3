@@ -1,0 +1,68 @@
+{
+    "uid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "c33e1f18-c103-4463-a3af-2df47d417d26"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "Margaret Hopper"
+        }
+    ],
+    "mail": [
+        {
+            "value": "margaret.hopper@example.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "UTC"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "editor",
+            "target_type": "user_role",
+            "target_uuid": "9d22a562-87de-407f-8a4a-3f47147f5638"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "user_picture": []
+}

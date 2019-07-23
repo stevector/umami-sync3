@@ -1,0 +1,50 @@
+{
+    "uuid": [
+        {
+            "value": "d91a8206-0d2f-43af-99d5-b36451e0ac0c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [],
+    "filename": [
+        {
+            "value": "veggie-pasta-bake-hero-umami.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/veggie-pasta-bake-hero-umami.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 225830
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

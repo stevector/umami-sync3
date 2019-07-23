@@ -1,0 +1,68 @@
+{
+    "uid": [
+        {
+            "value": 7
+        }
+    ],
+    "uuid": [
+        {
+            "value": "3233de39-7e1b-4455-a9c2-4840df611aa5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "Samuel Adamson"
+        }
+    ],
+    "mail": [
+        {
+            "value": "samuel.adamson@example.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "UTC"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-23T02:57:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "author",
+            "target_type": "user_role",
+            "target_uuid": "de039d32-0b6b-4387-9d6b-e85cb7966024"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "user_picture": []
+}
